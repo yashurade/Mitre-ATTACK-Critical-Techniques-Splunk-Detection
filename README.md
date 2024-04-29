@@ -1,5 +1,4 @@
-# Mitre-ATTACK-Critical-Techniques-Splunk-Detection
-Mitre-ATTACK-Critical-Techniques-Splunk-Detection
+
 # Mitre ATT&CK Critical Techniques Detection with Splunk
 
 ![Mitre ATT&CK](AtomicRedTeam/Mitre.png)
