@@ -25,10 +25,11 @@ This repository aims to provide confirmation of successful detection for critica
 
 #### Confirmation of Detection:
 
-![T1059 Screenshot](AtomicRedTeam/WindowsT1059_001.png)
+![T1059 Screenshot](AtomicRedTeam/WindowsT1059_001.PNG)
 
-The screenshot above confirms successful detection of the T1059 technique using Splunk.
-
+ I have use atomicRedTeam.ps1 to create a telementary data.
+ 
+![T1059 Siem Screenshot](AtomicRedTeam/AtomicRedTeam/T1059_001SPLUNK.PNG)
 ---
 
 ### T1003: OS Credential Dumping
