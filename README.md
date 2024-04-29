@@ -12,7 +12,6 @@ This repository contains Splunk detection confirmation screenshots for critical 
 - [Included Techniques](#included-techniques)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -52,6 +51,4 @@ These screenshots demonstrate the effectiveness of Splunk in detecting critical 
 
 Contributions to this repository are welcome! If you have additional confirmation screenshots for other techniques, improvements, or feedback, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
