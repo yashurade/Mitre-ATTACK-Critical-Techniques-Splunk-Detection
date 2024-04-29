@@ -2,7 +2,7 @@
 Mitre-ATTACK-Critical-Techniques-Splunk-Detection
 # Mitre ATT&CK Critical Techniques Detection with Splunk
 
-![Mitre ATT&CK](https://raw.githubusercontent.com/mitre/attack-website/master/assets/images/logo.png)
+![Mitre ATT&CK](AtomicRedTeam/Mitre.png)
 
 This repository contains Splunk detection confirmation screenshots for critical techniques from the Mitre ATT&CK framework. The screenshots demonstrate successful detection of these techniques using Splunk.
 
