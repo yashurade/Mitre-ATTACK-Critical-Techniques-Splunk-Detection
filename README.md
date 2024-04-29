@@ -29,7 +29,7 @@ T1112 involves adversaries modifying the Windows Registry to achieve various obj
 
 The screenshot below demonstrates the execution of Atomic Red Team telemetry data, simulating T1112 activity by modifying registry keys on a Windows system:
 
-![T1112 Telemetry Data](AtomicRedTeam/AtomicRedTeam/WindowsT1112.PNG)
+![T1112 Telemetry Data](AtomicRedTeam/WindowsT1112.PNG)
 
 The following screenshot confirms the successful detection of the T1112 technique using Splunk:
 
